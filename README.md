@@ -6,4 +6,4 @@ _Practitioners with experience can use this website as a collection of direction
 > Machine learning draws on concepts and results from many fields, including statistis, artificial intelligence, philosophy, > information theory, biology, cognitive science, computational complexity, and control theory.
 
 
-## [Introduction]()
+## [Introduction](https://kushalbhanot.github.io/Introduction.md/)
